@@ -32,9 +32,9 @@ Native Android Development
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/sherif-amr/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/sherif_amr927"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-adityavs__-blue?style=flat-square&logo=instagram"></a>
-<a href="sherif.amr.927@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
+<a href="https://www.linkedin.com/in/sherif-amr/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Sherif%20Amr%20Singh-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.instagram.com/sherif_amr927"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-sherif_amr927__-blue?style=flat-square&logo=instagram"></a>
+<a href="sherif.amr.927@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-sherif.amr.927@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
 ⭐️ From [sherif927](https://github.com/AVS1508)
