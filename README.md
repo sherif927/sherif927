@@ -25,7 +25,7 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/sherif-amr/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Sherif%20Amr-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/sherif_amr927"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-sherif_amr927__-blue?style=flat-square&logo=instagram"></a>
+<a href="https://www.instagram.com/sherif_amr927"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-sherif_amr927-blue?style=flat-square&logo=instagram"></a>
 <a href="sherif.amr.927@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-sherif.amr.927@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
