@@ -10,7 +10,7 @@
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Java | C++ | C# | Javascript | Typescript
-- 🌐 &nbsp; Spring Boot | ExpressJS | NestJS | Flask | ASP.NET
+- 🌐 &nbsp; Spring Boot | ExpressJS | NestJS | ASP.NET
 - 🛢 &nbsp; PostgreSQL | MongoDB | Redis
 - 🔧 &nbsp; RabbitMQ | AWS SQS
 - 🖥 &nbsp; Distributed Systems | Microservices | Pub/Sub Pattern
